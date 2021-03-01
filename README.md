@@ -29,4 +29,4 @@ Esta aplicação foi projetada para calcular o NPS de uma empresa a partir da re
 </ul>
 
 <h2>Licença</h2>
-<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="../LICENSE.md">LICENSE</a> para mais detalhes.</p>
+<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="./LICENSE.md">LICENSE</a> para mais detalhes.</p>
